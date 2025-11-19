@@ -7,7 +7,7 @@ reserve_words = """
     assert    del       global    not       with
     async     elif      if        or        yield
 """
-
+# перемение и их написание
 name = "Tom"
 Name = "Tom"
 print(name, Name)
